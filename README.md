@@ -11,4 +11,10 @@ I am extremely delighted to the final course projects by our students.
 
 - [Aerim, Gloria, Hana, and Fav](https://kdis-aerim-kang.shinyapps.io/Team2_Final/)
 - [Jimin Ju, Hyewon Kim, Jiweon Kim, and Nasimullarh Latifi](https://ids2020jimin.shinyapps.io/ids2020/)
+- [Joyce Aguirre](https://jsaguirre.shinyapps.io/FinalProject/)
+- [Kamal, Min, Ask and Adrian](https://gautamkamal.shinyapps.io/finalproject/)
+- [Woo Jae Jung and Yoon Kyum Kim](https://ynwoon.shinyapps.io/final/)
+- [Justin O'Connor, Seong Hee Kang](https://oconnorjus.shinyapps.io/GrpPr_MSJ_USAJOBS/)
+- [Jihye Kim](https://kimjihye.shinyapps.io/final2/)
+
 
