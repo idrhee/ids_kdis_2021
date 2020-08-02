@@ -9,4 +9,4 @@ I am extremely delighted to the final course projects by our students.
 
 ### Summer 2020
 
-- (Aerim, Gloria, Hana, and Fav)[https://kdis-aerim-kang.shinyapps.io/Team2_Final/]
+- [Aerim, Gloria, Hana, and Fav](https://kdis-aerim-kang.shinyapps.io/Team2_Final/)
