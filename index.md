@@ -2,11 +2,11 @@
 
 Welcome to *Introduction to Data Science for Policymaking Using R*, or **IDS 2020**. In this course, we surveyed some of the commonly used research designs for public policy research, as well as introduced students to the programming language of R. 
 
-The first cohort of the course went through various challenges during the *all-online classes offered in intensive 6-weeks format with no TA support*. However, together, they have overcome the pain and suffering, and all came out in one piece at the end of the tunnel. 
+The first cohort of the course went through various challenges during the **all-online classes offered in intensive 6-weeks format with no TA support**. However, together, they have overcome the pain and suffering, and all came out in one piece at the end of the tunnel. 
 
 For their final projects, the students were asked to choose a policy area of their interest, and create an interactive web dashboard using [Shiny](https://shiny.rstudio.com/) - an R package that can be used to build interactive web apps straight from R. This involved brainstroming research questions, identifying data sources, cleaning, manipulating, and transforming data, creating effective visualization, and putting everything together in an interactive format.
 
-I am extremely delighted and proud to present the final course projects by our students below. Each project is organized by first its main dashboard, and then the accompanying HTML appendix. 
+*I am extremely delighted and proud to present the final course projects by our students below. Each project is organized by first its main dashboard, and then the accompanying HTML appendix.* 
 
 #### Note
 1. The dashboard and appendix opens in new window/tab.
