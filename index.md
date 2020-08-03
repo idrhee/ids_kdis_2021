@@ -14,19 +14,19 @@ I am extremely delighted to the final course projects by our students below. Eac
 - Joyce Aguirre, Soyeon Min, Yoojin Nam, and Sunwook Park
   - [Dashboard](https://jsaguirre.shinyapps.io/FinalProject/){:target="_blank"}, [HTML Appendix](https://rpubs.com/Sunwook/644778){:target="_blank"}
 - Gloria Athieno, Favour Awah, Aerim Kang, and Hana Lee
-  - [Dashboard](https://kdis-aerim-kang.shinyapps.io/Team2_Final/){:target="_blank"}, [HTML Appendix](https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Aerim_Team2_FinalGroupProject.html){:target="_blank"}
+  - [Dashboard](https://kdis-aerim-kang.shinyapps.io/Team2_Final/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Aerim_Team2_FinalGroupProject.html){:target="_blank"}
 - Kamal Gautam, Adrian Namate, Ask Nissen, and Su Min Woo
-  - [Dashboard](https://gautamkamal.shinyapps.io/finalproject/){:target="_blank"}, [HTML Appendix](https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/kamal_groupproject.html){:target="_blank"}
+  - [Dashboard](https://gautamkamal.shinyapps.io/finalproject/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/kamal_groupproject.html){:target="_blank"}
 - Jimin Ju, Hyewon Kim, Jiweon Kim, and Nasimullarh Latifi
-  - [Dashboard](https://ids2020jimin.shinyapps.io/ids2020/){:target="_blank"}, [HTML Appendix](https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/IDS_Group_project_HJJN_no_code.html){:target="_blank"}
+  - [Dashboard](https://ids2020jimin.shinyapps.io/ids2020/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/IDS_Group_project_HJJN_no_code.html){:target="_blank"}
 - Woo Jae Jung and Yoon Kyum Kim
   - [Dashboard](https://ynwoon.shinyapps.io/final/){:target="_blank"}, [HTML Appendix](){:target="_blank"}
 - Seong Hee Kang, Minah Kim, and Justin O'Connor
-  - [Dashboard](https://oconnorjus.shinyapps.io/GrpPr_MSJ_USAJOBS/){:target="_blank"}, [HTML Appendix](https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Finalassignment_Justin%2C%20Mina%2C%20Seonghee.html){:target="_blank"}
+  - [Dashboard](https://oconnorjus.shinyapps.io/GrpPr_MSJ_USAJOBS/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Finalassignment_Justin%2C%20Mina%2C%20Seonghee.html){:target="_blank"}
 - Loqman Kessour, Sara Lim, Andrea Romo Perez, and Jiin Yoo
-  - [Dashboard](https://loqmankessour.shinyapps.io/OECD_countries_fem_led_cov/){:target="_blank"}, [HTML Appendix](https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Andrea_Final-Markdown.html){:target="_blank"}
+  - [Dashboard](https://loqmankessour.shinyapps.io/OECD_countries_fem_led_cov/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Andrea_Final-Markdown.html){:target="_blank"}
 - Jihye Kim, Youn Joo Kim, Cynthia Mbabazi, and Yechan Moon
-  - [Dashboard](https://kimjihye.shinyapps.io/final2/){:target="_blank"}, [HTML Appendix](https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Moon_project_(2).html){:target="_blank"}
+  - [Dashboard](https://kimjihye.shinyapps.io/final2/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Moon_project_(2).html){:target="_blank"}
 - Sae Hee Oh, Ki Sung Kim, Seyoung Park, and Ronald Tebogo
   - [Dashboard](https://appsforids2020.shinyapps.io/realproject/){:target="_blank"}, [HTML Appendix](https://rpubs.com/Ronteek/644688){:target="_blank"}
 
