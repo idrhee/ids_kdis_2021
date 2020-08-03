@@ -9,14 +9,14 @@ I am extremely delighted to the final course projects by our students below.
 
 ### Summer 2020
 
-- [Joyce Aguirre, Soyeon Min, Yoojin Nam, and Sunwook Park](https://jsaguirre.shinyapps.io/FinalProject/)
-- [Gloria Athieno, Favour Awah, Aerim Kang, and Hana Lee](https://kdis-aerim-kang.shinyapps.io/Team2_Final/)
-- [Kamal Gautam, Adrian Namate, Ask Nissen, and Su Min Woo](https://gautamkamal.shinyapps.io/finalproject/)
-- [Jimin Ju, Hyewon Kim, Jiweon Kim, and Nasimullarh Latifi](https://ids2020jimin.shinyapps.io/ids2020/)
-- [Woo Jae Jung and Yoon Kyum Kim](https://ynwoon.shinyapps.io/final/)
-- [Seong Hee Kang, Minah Kim, and Justin O'Connor](https://oconnorjus.shinyapps.io/GrpPr_MSJ_USAJOBS/)
-- [Loqman Kessour, Sara Lim, Andrea Romo Perez, and Jiin Yoo](https://loqmankessour.shinyapps.io/OECD_countries_fem_led_cov/)
-- [Jihye Kim, Youn Joo Kim, Cynthia Mbabazi, and Yechan Moon](https://kimjihye.shinyapps.io/final2/)
-- [Sae Hee Oh, Ki Sung Kim, Seyoung Park, and Ronald Tebogo](https://appsforids2020.shinyapps.io/realproject/)
+- [Joyce Aguirre, Soyeon Min, Yoojin Nam, and Sunwook Park](https://jsaguirre.shinyapps.io/FinalProject/){:target="_blank"}
+- [Gloria Athieno, Favour Awah, Aerim Kang, and Hana Lee](https://kdis-aerim-kang.shinyapps.io/Team2_Final/){:target="_blank"}
+- [Kamal Gautam, Adrian Namate, Ask Nissen, and Su Min Woo](https://gautamkamal.shinyapps.io/finalproject/){:target="_blank"}
+- [Jimin Ju, Hyewon Kim, Jiweon Kim, and Nasimullarh Latifi](https://ids2020jimin.shinyapps.io/ids2020/){:target="_blank"}
+- [Woo Jae Jung and Yoon Kyum Kim](https://ynwoon.shinyapps.io/final/){:target="_blank"}
+- [Seong Hee Kang, Minah Kim, and Justin O'Connor](https://oconnorjus.shinyapps.io/GrpPr_MSJ_USAJOBS/){:target="_blank"}
+- [Loqman Kessour, Sara Lim, Andrea Romo Perez, and Jiin Yoo](https://loqmankessour.shinyapps.io/OECD_countries_fem_led_cov/){:target="_blank"}
+- [Jihye Kim, Youn Joo Kim, Cynthia Mbabazi, and Yechan Moon](https://kimjihye.shinyapps.io/final2/){:target="_blank"}
+- [Sae Hee Oh, Ki Sung Kim, Seyoung Park, and Ronald Tebogo](https://appsforids2020.shinyapps.io/realproject/){:target="_blank"}
 
 (Note: the projects and the team members are arranged alphabetically by last names)
