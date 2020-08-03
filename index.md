@@ -20,7 +20,7 @@ I am extremely delighted to the final course projects by our students below. Eac
 - Jimin Ju, Hyewon Kim, Jiweon Kim, and Nasimullarh Latifi
   - [Dashboard](https://ids2020jimin.shinyapps.io/ids2020/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/IDS_Group_project_HJJN_no_code.html){:target="_blank"}
 - Woo Jae Jung and Yoon Kyum Kim
-  - [Dashboard](https://ynwoon.shinyapps.io/final/){:target="_blank"}, [HTML Appendix](){:target="_blank"}
+  - [Dashboard](https://ynwoon.shinyapps.io/final/){:target="_blank"}
 - Seong Hee Kang, Minah Kim, and Justin O'Connor
   - [Dashboard](https://oconnorjus.shinyapps.io/GrpPr_MSJ_USAJOBS/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Finalassignment_Justin%2C%20Mina%2C%20Seonghee.html){:target="_blank"}
 - Loqman Kessour, Sara Lim, Andrea Romo Perez, and Jiin Yoo
