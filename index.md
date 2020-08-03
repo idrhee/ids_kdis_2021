@@ -8,6 +8,9 @@ For their final projects, the students were asked to choose a policy area of the
 
 I am extremely delighted to the final course projects by our students below. Each project is organized by first its main dashboard, and then the accompanying HTML appendix. 
 
+#### Note
+1. The dashboard and appendix opens in new window/tab.
+2. The projects and the team members are listed alphabetically by last names.
 
 ### Summer 2020
 
@@ -30,6 +33,3 @@ I am extremely delighted to the final course projects by our students below. Eac
 - Sae Hee Oh, Ki Sung Kim, Seyoung Park, and Ronald Tebogo
   - [Dashboard](https://appsforids2020.shinyapps.io/realproject/){:target="_blank"}, [HTML Appendix](https://rpubs.com/Ronteek/644688){:target="_blank"}
 
-#### Note
-1. The dashboard and appendix opens in new window/tab.
-2. The projects and the team members are listed alphabetically by last names.
