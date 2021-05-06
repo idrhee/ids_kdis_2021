@@ -17,7 +17,7 @@ For their final projects, the students were asked to choose a policy area of the
 
 - Andre, Danai, Duyen, Samuel, Tigran
   - [Dashboard](https://andre-munthe.shinyapps.io/Rfinal/){:target="_blank"}, [HTML Appendix](https://rpubs.com/duyendo/763352){:target="_blank"}
-- Axel, Kangyoon, Minju, Seunghui, Kyungyeon
+- Axel, Kangyoon, Minju, Seonghui, Kyungyeon
   - [Dashboard](https://yeominju.shinyapps.io/IDS2021/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis_2021/blob/gh-pages/appendices/appendix_final.html){:target="_blank"}
 - Bongseok, Jeehee , Minji, Seju, Seonah
   - [Dashboard](https://kdiskbs.shinyapps.io/Final/){:target="_blank"}, [HTML Appendix](https://rpubs.com/littletree93/appendix){:target="_blank"}
