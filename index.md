@@ -14,26 +14,27 @@ For their final projects, the students were asked to choose a policy area of the
 
 ### Spring 2021
 
-- OUMAYMA, TAEHO, SU MIN, YOUNGHWAN
-  - [Dashboard](https://taeho.shinyapps.io/test/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis_2021/blob/gh-pages/appendices/Final-Project-Appendix.html){:target="_blank"}
-  
 - Andre, Danai, Duyen, Samuel, Tigran
   - [Dashboard](https://andre-munthe.shinyapps.io/Rfinal/){:target="_blank"}, [HTML Appendix](https://rpubs.com/duyendo/763352){:target="_blank"}
-  
-- Jihee, Nadiah, Rim, Miaji
-  - [Dashboard](https://nadiah.shinyapps.io/technology/){:target="_blank"}, [HTML Appendix](https://rpubs.com/Miaji/763664){:target="_blank"}
-  
-- Dhania, Jieun, Omer, Taekyoung, and Wenyuan
-  - [Dashboard](){:target="_blank"}, [HTML Appendix](https://rpubs.com/dsarahtika/koreanculture){:target="_blank"}
-  
-  
-- 
+- Axel, Kangyoon, Minju, Seunghui, Kyungyeon
+- Bongseok, Jeehee , Minji, Seju, Seonah
   - [Dashboard](https://kdiskbs.shinyapps.io/Final/){:target="_blank"}, [HTML Appendix](https://rpubs.com/littletree93/appendix){:target="_blank"}
-  
-- 
-  - [Dashboard](https://muhammed-farah-hashi.shinyapps.io/final_project/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis/blob/gh-pages/appendices/Finalassignment_Justin%2C%20Mina%2C%20Seonghee.html){:target="_blank"}
-  
-  
-- Da-eun KWAN, Youngju LEE, Jinyoung PACK, Yongsung SONG, and Nishtha VENGURLEKAR
+- Da Eun, Jinyoung, Nistha, Youngsung, Youngju
   - [Dashboard](https://jypack.shinyapps.io/final_djny/){:target="_blank"}, [HTML Appendix](https://rpubs.com/IDS2021_Aging_World/762151){:target="_blank"}
+- Dhania, Jieun, Omer, Taekyoung, Wenyuan 
+  - [Dashboard](https://tkpark-kdis.shinyapps.io/final_yoo/){:target="_blank"}, [HTML Appendix](https://rpubs.com/dsarahtika/koreanculture){:target="_blank"}
+- Isse, Jessica, Muhammed, Seon Ho
+  - [Dashboard](https://muhammed-farah-hashi.shinyapps.io/final_project/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis_2021/blob/gh-pages/appendices/html-file.html){:target="_blank"}
+- Jihee, Miaji, Nadiah, Rim 
+  - [Dashboard](https://nadiah.shinyapps.io/technology/){:target="_blank"}, [HTML Appendix](https://rpubs.com/Miaji/763664){:target="_blank"}
+- Oumayma, Taeho, Su Min, Younghwan 
+  - [Dashboard](https://taeho.shinyapps.io/test/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis_2021/blob/gh-pages/appendices/Final-Project-Appendix.html){:target="_blank"}
+- Jeeyoung, Kiyoung, Jongsuk  
+  - [Dashboard](https://taeho.shinyapps.io/test/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis_2021/blob/gh-pages/appendices/HTML_final-project.html){:target="_blank"}
+  
+
+  
+  
+
+  
   
