@@ -2,7 +2,7 @@
 
 Welcome to *Introduction to Data Science for Policymaking Using R*, or **IDS 2021**. In this course, we introduced students to the programming language of R, and surveyed some very basic skills needed to process data in order to facilitate better public policy research.
 
-This year's cohort faced various challenges during the **all-online, 3.5 $+\alpha$ hour long evening classes** under the difficult learning environment imposed by COVID-19. However, together, they have overcome the pain and suffering, and all came out in one piece at the end of the tunnel. 
+This year's cohort faced various challenges during the **all-online, 3.5+ hour long evening classes** under the difficult learning environment imposed by COVID-19. However, together, they have overcome the pain and suffering, and all came out in one piece at the end of the tunnel. Many have gone from having no coding or programming background, to being able to take baby steps in producing their own analysis. 
 
 For their final projects, the students were asked to choose a policy area of their interest, and create an interactive web dashboard using [Shiny](https://shiny.rstudio.com/) - an R package that can be used to build interactive web apps straight from R. This involved brainstroming research questions, identifying data sources, cleaning, manipulating, and transforming data, creating effective visualization, and putting everything together in an interactive format.
 
@@ -34,7 +34,9 @@ For their final projects, the students were asked to choose a policy area of the
 - Oumayma, Taeho, Su Min, Younghwan 
   - [Dashboard](https://taeho.shinyapps.io/test/){:target="_blank"}, [HTML Appendix](https://htmlpreview.github.io/?https://github.com/idrhee/ids_kdis_2021/blob/gh-pages/appendices/Final-Project-Appendix.html){:target="_blank"}
 
-  
+### Previous years
+
+- You can find the link showcasing the previous year's projects [here](https://idrhee.github.io/ids_kdis/){:target="_blank"}
 
   
   
